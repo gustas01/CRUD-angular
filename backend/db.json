@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "PC Gamer",
+      "price": 5000
+    },
+    {
+      "id": 2,
+      "name": "PC da Nasa",
+      "price": 10000
+    },
+    {
+      "name": "mouse",
+      "price": "5",
+      "id": 3
+    }
+  ]
+}
