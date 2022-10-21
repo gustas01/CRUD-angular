@@ -14,6 +14,26 @@
       "name": "mouse",
       "price": "5",
       "id": 3
+    },
+    {
+      "name": "s10e",
+      "price": "2000",
+      "id": 4
+    },
+    {
+      "name": "re4remake",
+      "price": "200",
+      "id": 6
+    },
+    {
+      "name": "pc do camelô",
+      "price": "2000",
+      "id": 7
+    },
+    {
+      "name": "PC brabo",
+      "price": "111.333",
+      "id": 8
     }
   ]
 }

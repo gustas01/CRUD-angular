@@ -17,7 +17,7 @@ export class ProductCreateComponent implements OnInit {
 
   product: Product = {
     name: '',
-    price: 0
+    price: null
   }
   createProduct(){
     this.productService.create(this.product).subscribe(() => {
