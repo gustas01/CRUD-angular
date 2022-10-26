@@ -1,4 +1,5 @@
 ## Sobre o projeto
+Para o frontend foi usado Angular 14.<br>
 ### Frontend
 A aplicação se trata de um CRUD simples de um lista de produtos eletrônicos onde se pode cadastrar, ler, editar e apagar os produtos.
 ![image](https://user-images.githubusercontent.com/50846424/198087054-7d553e93-2d6b-4a5a-bbbd-c24bf1308a22.png)
